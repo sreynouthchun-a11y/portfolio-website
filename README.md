@@ -1,18 +1,17 @@
-# 🎓 CodeAcademy - Learning Platform
+# CodeAcademy KH 🚀
 
-Welcome to CodeAcademy, a modern platform designed to teach coding from scratch to professional level.
+Welcome to the professional coding learning platform. This project is designed to provide a structured path for beginners to learn web development.
 
-## 🚀 Features
-- **Modern UI/UX**: Built with Tailwind CSS for a professional look.
-- **Course Catalog**: Structured paths for Frontend, Backend, and Mobile development.
-- **Responsive Design**: Works perfectly on all devices.
-- **Call to Action**: Integrated registration form for students.
+## 🛠 Features
+- **Course Roadmaps**: Structured learning paths from HTML to React.
+- **Interactive Playground**: A built-in live code editor for instant practice.
+- **Modern UI**: Built with Tailwind CSS for a professional, dark-themed experience.
+- **Responsive**: Fully optimized for all screen sizes.
 
-## 🛠️ Tech Stack
-- **HTML5**
-- **Tailwind CSS** (Styling)
-- **Font Awesome** (Icons)
-- **Google Fonts** (Kantumruy Pro for Khmer language support)
+## 📚 Learning Path
+1. **HTML & CSS**: The foundation of the web.
+2. **JavaScript**: Adding logic and interactivity.
+3. **React**: Building scalable modern applications.
 
-## 🌐 Deployment
+## 🚀 Deployment
 This site is deployed via GitHub Pages.
